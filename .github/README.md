@@ -1,4 +1,4 @@
-<h1 align="center"> Focus Clock </h1>
+<h1 align="center"> Ignite Timer </h1>
 
 <p align="center">
 Trabalho exclusivo a assinantes do plano Ignite, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -29,9 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O "Ignite Timer" é uma aplicação em React que permite aos usuários adicionar e interromper tarefas em seus dispositivos locais. provido pela Rocketseat e nomeado na minha versão como "Focus Clock". Ela oferece uma interface intuitiva e amigável, projetada para facilitar a organização das atividades diárias.
+O Ignite Timer é uma aplicação em React que permite aos usuários adicionar e interromper tarefas em seus dispositivos locais. Ela oferece uma interface intuitiva e amigável, projetada para facilitar a organização das atividades diárias.
 
-**Principais recursos do Focus Clock:**
+**Principais recursos do Ignite Timer:**
 
 • Adicionar tarefas: Os usuários podem criar novas tarefas, fornecendo um título para cada uma delas;
 
